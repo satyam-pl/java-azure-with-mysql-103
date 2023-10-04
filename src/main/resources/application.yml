@@ -1,7 +1,7 @@
 spring:
   datasource:
     url:  jdbc:sqlserver://java-azure-sqldb-server-103.database.windows.net:1433;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
-    username:satyam_azure
+    username: satyam_azure
     password: patel@20000
     driver-class-name: com.mysql.cj.jdbc.Driver  # Replace with your database driver
 
